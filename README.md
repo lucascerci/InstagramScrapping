@@ -3,7 +3,7 @@
 1. docker-compose build
 2. docker-compose up
 
-If some connection fail, just wait a sec and will reconnect soon
+If some connection fail, just wait a sec and it will reconnect soon
 ```
 
 ## To GET Data
